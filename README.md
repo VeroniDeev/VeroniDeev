@@ -2,7 +2,7 @@
 
  👋🏽 Hey! Welcome to my page
 
-- 💭 My name is zoubheir
+- 💭 My name is Zoubheir
 - 🌎 I'm from France / Strasbourg
 - 👨🏻‍💻 Love programming, gaming and read
 - 🧠 I swim and boxing
