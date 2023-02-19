@@ -1,69 +1,46 @@
-<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
- 👋🏽 Hey! Welcome to my page
+# Hi there, I'm Zoubheir 👋
 
-- 💭 My name is Zoubheir
-- 🌎 I'm from France / Strasbourg
-- 👨🏻‍💻 Love programming, gaming and read
-- 🧠 I swim and boxing
-- 💭 my dream is to have a lot of knowledge in the informatic world
-- 📧 my email address is cozmosbrz5@gmail.com
--    I am 16 years old 
--    I started informatic at the age of 14 when I wanted to create my own website 
--    I am developing my own certified discord bot called [panoramx](https://discord.gg/UuYFJ5g85J)
--    you can go see my website
+I'm a 17-year-old who is passionate about computer science. I currently live in Strasbourg and enjoy activities like boxing and swimming in my free time.
+
+<img src="https://img.wattpad.com/fe8dd6e65a97d2f6f32d98ccbe1f2f3811304d57/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5f4a564f654b3346737569724f773d3d2d313035313836313136312e313637653530643364373538656163383531343730313933353734302e676966?s=fit&w=720&h=720" width="100%">
+
+## 🔭 I’m currently working on...
+
+-   Improving my programming skills.
+-   Exploring new technologies and frameworks.
+-  Learn more about the space.
+
+## 🌱 I’m currently learning...
+
+-   Fullstack web development with MERN stack.
+- Python for backend and Artificial Intelligence.
+- Astronomy and the history of the life.
+- French and Moroccan Kitchen.
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## 💻 My informatic skills
+## 💻 My skill:
 <div style="display: inline-block">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/html5/html5-original.svg" width="32px">
-<img src="https://raw.githubusercontent.com/b4dcat404/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mysql/mysql-original.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/linux/linux-original.svg" width="32px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/javascript/javascript-original.svg" width="32px">
+<h3 style="display: block">Programming language</h3>
+<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_32x32.png?raw=true">
+<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_32x32.png?raw=true">
+<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png?raw=true">
+<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_32x32.png?raw=true">
 </div>
 
-<br>
 
-## 📊 My stats
+## 💬 Ask me about...
 
-<a href="https://github.com/CozmosDeev" >
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CozmosDeev&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CozmosDeev&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
-</a>
+-   Anything related to programming and computer science.
+- All about space.
+- Synthwave, Pluggnb, Lofi music.
+- All about art.
+-  For your project idea. 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+## 📫 How to reach me:
 
----
+-   Email: [zoubheir@gmail.com](mailto:zoubheir@gmail.com)
 
-<p align="center" > 
-  <i>Thanks for passing by</i><br><br>
-  <i>Feel free to connect with me</i><br><br>
-  <a href="https://twitter.com/cozmos_brz" target="_blank">
-  <code><img alt="My Twitter" width="32" src="https://website-crimea.ru/wp-content/uploads/github/twitter.svg" /></code>
-</a>
-<a href="https://instagram.com/cozmos_brz" target="_blank">
-<code><img alt="My Instagram" width="32" src="https://website-crimea.ru/wp-content/uploads/github/instagram.svg" /></code>
-</a>
-<a href="mailto:cozmosbrz5@gmail.com" target="_blank">
-<code><img alt="My Mail" width="32" src="https://website-crimea.ru/wp-content/uploads/github/gmail.svg" /></code>
-</a>
-</p>
+## ⚡ Fun fact:
 
-<!---
-CozmosDeev/CozmosDeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  I love Retro Movie, Manga and more retro things.
