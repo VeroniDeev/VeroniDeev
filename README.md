@@ -20,10 +20,11 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 
 
 ## 💻 My skill:
-<div style="display: inline-block">
-<h3 style="display: block">Programming language</h3>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 ## 💬 Ask me about...
