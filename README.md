@@ -20,7 +20,8 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 
 
 ## 💻 My skill:
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+<h3>Programming language</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,py" />
 
 ## 💬 Ask me about...
 
