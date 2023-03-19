@@ -23,6 +23,12 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 <h3>Programming language</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,py" />
 
+<h3>Framework</h3>
+<img src="https://skillicons.dev/icons?i=django" />
+
+<h3>Tools</h3>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,docker,git,github,bash" />
+
 ## 💬 Ask me about...
 
 -   Anything related to programming and computer science.
