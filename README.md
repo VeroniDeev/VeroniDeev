@@ -22,10 +22,10 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 ## 💻 My skill:
 <div style="display: inline-block">
 <h3 style="display: block">Programming language</h3>
-<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_32x32.png?raw=true">
-<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_32x32.png?raw=true">
-<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png?raw=true">
-<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_32x32.png?raw=true">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
 </div>
 
 
