@@ -21,10 +21,10 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 
 ## 💻 My skill:
 <h3>Programming language</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,py,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,cpp" />
 
 <h3>Framework</h3>
-<img src="https://skillicons.dev/icons?i=django,qt,react,express,nodejs" />
+<img src="https://skillicons.dev/icons?i=django,qt,react,express" />
 
 <h3>Database</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql" />
