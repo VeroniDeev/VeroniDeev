@@ -27,7 +27,7 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 <img src="https://skillicons.dev/icons?i=django,qt,react,express" />
 
 <h3>Database</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres" />
 
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=vscode,webpack,figma,docker,git,bash" />
