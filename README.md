@@ -30,7 +30,7 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres" />
 
 <h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=vscode,intellij,webpack,figma,docker,git,bash" />
+<img src="https://skillicons.dev/icons?i=vscode,webpack,figma,docker,git,bash" />
 
 ## 💬 Ask me about...
 
