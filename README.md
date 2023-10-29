@@ -1,4 +1,5 @@
 
+
 # Hi there, I'm Zoubheir 👋
 
 I'm a 17-year-old who is passionate about computer science. I currently live in Strasbourg and enjoy activities like boxing and swimming in my free time.
@@ -13,18 +14,18 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 
 ## 🌱 I’m currently learning...
 
--   Fullstack web development with MERN stack.
-- Python for backend and Artificial Intelligence.
+-   Artificial Intelligence and Deep Learning.
+- Vulkan for 3D games.
 - Astronomy and the history of the life.
 - French and Moroccan Kitchen.
 
 
 ## 💻 My skill:
 <h3>Programming language</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,ts,py,cpp,dart,ruby" />
 
 <h3>Framework</h3>
-<img src="https://skillicons.dev/icons?i=django,qt,react,express" />
+<img src="https://skillicons.dev/icons?i=rails,qt,react,svelte,flutter,tensorflow,nextjs,jest" />
 
 <h3>Database</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
