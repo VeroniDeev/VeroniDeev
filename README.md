@@ -43,7 +43,7 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 
 ## 📫 How to reach me:
 
--   Email: [contact@zoubheir.com](mailto:contact@zoubheir.com)
+-   Email: [zoubheir@gmail.com](mailto:zoubheir@gmail.com)
 
 ## ⚡ Fun fact:
 
