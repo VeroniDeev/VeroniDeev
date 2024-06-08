@@ -66,19 +66,6 @@ background: url('https://github.com/VeroniDeev/VeroniDeev/blob/main/wonderful-hd
 \mmlToken{ms}[fontfamily="
 color: transparent;
 pointer-events:none;
-z-index: 999;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-backdrop-filter: saturate(2) blur(15px) brightness(0.7) opacity(1.2);
-mask-image: linear-gradient(transparent 65%, white 94%);
-background: linear-gradient(45deg, black, transparent);
-"]{}
-
-\mmlToken{ms}[fontfamily="
-color: transparent;
-pointer-events:none;
 z-index: -10;
 position: fixed;
 inset:0;
