@@ -48,3 +48,18 @@ I'm a 17-year-old who is passionate about computer science. I currently live in 
 ## ⚡ Fun fact:
 
 -  I love Retro Movie, Manga and more retro things.
+
+```math
+\mmlToken{ms}[fontfamily="
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+width: 130vw;
+opacity: 0.5;
+background: url('https://img.wattpad.com/fe8dd6e65a97d2f6f32d98ccbe1f2f3811304d57/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5f4a564f654b3346737569724f773d3d2d313035313836313136312e313637653530643364373538656163383531343730313933353734302e676966?s=fit&w=720&h=720');
+"]{}```
